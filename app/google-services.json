@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351958529576",
+    "project_id": "nightblank-messages",
+    "storage_bucket": "nightblank-messages.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351958529576:android:05e076066acab0a265671d",
+        "android_client_info": {
+          "package_name": "com.example.messages"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjbcg2FYmw7bp1ykuZwivtM_TScmHE7RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
